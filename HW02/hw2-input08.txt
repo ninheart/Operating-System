@@ -3,3 +3,4 @@ wc hw2-input08.txt
 wc -l hw2-input08.txt
 wc-l hw2-input08.txt
 exit
+ 
